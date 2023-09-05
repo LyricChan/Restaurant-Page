@@ -7,3 +7,6 @@ module.exports = {
     path: path.resolve(__dirname, "dist"),
   },
 };
+
+//Goes to source folder and look at index.js. This will be where the logic of our code will be written
+//Once you run the webpack command write to main.js (destination)

@@ -1,1 +1,1 @@
-console.log("Hello world");
+(()=>{"use strict";(()=>{const e=document.querySelector("#content"),t=document.createElement("div");t.classList.add("page-content");const n=document.createElement("img");n.src="https://1.bp.blogspot.com/-mYX0Zyo-RKo/U4EfgfcHC3I/AAAAAAAARZg/1CS4jf9Iwno/s1600/senmonorom+restaurant+lowell.jpg",n.height="300",t.appendChild(n);const o=document.createElement("h1");o.textContent="Welcome to Senmonorem",t.appendChild(o);const c=document.createElement("p");c.textContent="We serve the best food in Lowell.",t.appendChild(c),e.appendChild(t)})()})();
